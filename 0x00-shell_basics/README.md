@@ -1,1 +1,1 @@
- absolute path name script cd ..
+absolute path name script
